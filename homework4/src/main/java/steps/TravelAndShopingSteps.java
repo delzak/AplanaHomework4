@@ -6,7 +6,7 @@ import ru.yandex.qatools.allure.annotations.Step;
 /**
  * Created by Алексей on 28.01.2019.
  */
-public class TravelAndShopingSteps extends BaseSteps {
+public class TravelAndShopingSteps {
 
     @Step("Выполнена проверка наличия заголовка на странице {0}")
     public void stepFindTitle(String titleItem) {

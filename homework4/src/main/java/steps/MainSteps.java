@@ -6,7 +6,7 @@ import ru.yandex.qatools.allure.annotations.Step;
 /**
  * Created by Алексей on 28.01.2019.
  */
-public class MainSteps extends BaseSteps {
+public class MainSteps {
 
     @Step("Выбран пункт меню {0}")
     public void stepSelectMainMenu(String menuItem) {

@@ -30,3 +30,8 @@ homework4/.idea/workspace.xml
 *.iml
 *.class
 homework4/target/test-classes/Insurance.feature
+*.lst
+*.svg
+homework4/target/site/allure-maven-plugin/61aae920ab2f8fe604ba57b135aa9919.png
+*.eot
+*.json

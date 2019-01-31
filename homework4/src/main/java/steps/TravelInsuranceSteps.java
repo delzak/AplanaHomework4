@@ -8,18 +8,7 @@ import java.util.HashMap;
 /**
  * Created by Алексей on 28.01.2019.
  */
-public class TravelInsuranceSteps extends BaseSteps {
-
-    String surname = "Surname";
-    String name = "Name";
-    String ruSurname = "Фамилия";
-    String ruName = "Имя";
-    String middlename = "Отчество";
-    String birthday = "01.01.1991";
-    String series = "1111";
-    String number = "222222";
-    String issueDay = "01.02.2012";
-    String issuedBy = "Выдан людьми из паспортного стола";
+public class TravelInsuranceSteps {
 
     @Step("Поле {0} заполнено значением {1}")
     public void stepFillField(String field, String value) {

@@ -58,7 +58,7 @@ public class ScenarioSteps {
         travelInsuranceSteps.stepClickContinueButton();
     }
 
-    @When("^проверка появления сообщения об ошибке \"(.*)\"$")
+    @When("^выполнена проверка появления сообщения об ошибке \"(.*)\"$")
     public void stepAssertErrorText(String errorText) {
         errorText = "Заполнены не все обязательные поля";
         travelInsuranceSteps.stepAssertErrorText(errorText);
