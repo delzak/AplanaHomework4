@@ -21,3 +21,12 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+homework4/.idea/compiler.xml
+homework4/.idea/.name
+homework4/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml
+homework4/.idea/misc.xml
+homework4/.idea/modules.xml
+homework4/.idea/workspace.xml
+*.iml
+*.class
+homework4/target/test-classes/Insurance.feature
